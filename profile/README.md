@@ -1,8 +1,5 @@
 # Yinyangs
-
-## Welcome to Yinyangs!
-### *Previously known as teamSowo*
-
+###### *previously known as teamSowo*
 ---
 
 ## About Us 🌟
